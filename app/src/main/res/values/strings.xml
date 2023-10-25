@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartSpender</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="legalInfo"><b>Legal Information</b>\nBy using Smart Spender, you agree to our Terms and Conditions and Privacy Policy</string>
+    <string name="devInfo"><b>Developer Information</b>\nHarika B V\n<b>Website:</b> www.harikabv.in</string>
+    <string name="aboutDesc"><b>SmartSpender</b> is a smart and easy-to-use expense tracking app that helps you stay on top of your finances. Record your expenses, monitor spending patterns, and take control of your budget effortlessly.</string>
+</resources>

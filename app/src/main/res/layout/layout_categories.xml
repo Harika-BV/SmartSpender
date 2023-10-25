@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/list_item.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/iconImageView"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_item_icon"
+        android:contentDescription="Item Icon" />
+
+    <TextView
+        android:id="@+id/textTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item Text"
+        android:layout_marginStart="16dp" />
+
+    <ImageView
+        android:id="@+id/editImageView"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_edit"
+        android:contentDescription="Edit Icon"
+        android:layout_marginStart="16dp" />
+
+    <ImageView
+        android:id="@+id/deleteImageView"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_delete"
+        android:contentDescription="Delete Icon"
+        android:layout_marginStart="16dp" />
+
+</LinearLayout>
